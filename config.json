@@ -1,0 +1,7 @@
+{
+    "nodes": [
+        {"id": 0, "host": "127.0.0.1", "clientPort": "6379", "clusterPort": "7379"},
+        {"id": 1, "host": "127.0.0.1", "clientPort": "6380", "clusterPort": "7380"}, 
+        {"id": 2, "host": "127.0.0.1", "clientPort": "6381", "clusterPort": "7381"}
+    ]
+}
